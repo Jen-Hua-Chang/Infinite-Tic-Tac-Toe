@@ -1,6 +1,6 @@
 # Tic Tac Toe No Draw
 
-![image](https://github.com/user-attachments/assets/337545b3-64db-4ae1-bb33-d30f09675029)
+![screenshot](https://github.com/user-attachments/assets/f933e55f-48da-49f7-bf2d-edcae16b9d32)
 
 ## Project Description
 
