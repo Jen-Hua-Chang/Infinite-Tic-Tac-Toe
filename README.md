@@ -19,10 +19,10 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Jen-Hua-Chang/Infinite-Tic-Tac-Toe.git
 2. **Navigate to the project directory**:
     ```bash
-    cd Tic-Tac-Toe-No-Draw
+    cd Infinite-Tic-Tac-Toe
 3. **Install dependencies**:
     ```bash
     npm install
