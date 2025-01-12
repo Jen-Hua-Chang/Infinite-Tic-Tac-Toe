@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
    git clone <repository-url>
 2. **Navigate to the project directory**:
     ```bash
-    cd Tic-Tac-Toe-No-Draw
+    cd Infinite-Tic-Tac-Toe-
 3. **Install dependencies**:
     ```bash
     npm install
