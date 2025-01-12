@@ -4,6 +4,7 @@ import Board from "./components/Board";
 import GameOver from "./components/GameOver";
 import GameState from "./components/GameState";
 import NewGame from "./components/NewGame";
+import GitHubButton from './components/GitHubButton';
 
 const winningCombinations = [
   //rows
@@ -95,6 +96,7 @@ function Game() {
 
   return (
     <div>
+      <GitHubButton />
       <div className="info">
         <h1>Tic Tac Toe</h1>
       </div>

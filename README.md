@@ -1,10 +1,10 @@
-# Tic Tac Toe No Draw
+# Infinite Tic Tac Toe
 
 ![screenshot](https://github.com/user-attachments/assets/f933e55f-48da-49f7-bf2d-edcae16b9d32)
 
 ## Project Description
 
-Tic Tac Toe No Draw is a unique implementation of the classic Tic Tac Toe game, developed using React and Vite. In this version, the game prevents the possibility of a draw, ensuring that there is always a winner. This project showcases a creative twist on a traditional game, making it more challenging and engaging for players.
+Infinite Tic Tac Toe is a unique implementation of the classic Tic Tac Toe game, developed using React and Vite. In this version, the game prevents the possibility of a draw, ensuring that there is always a winner. This project showcases a creative twist on a traditional game, making it more challenging and engaging for players.
 
 ## Technologies Used
 
